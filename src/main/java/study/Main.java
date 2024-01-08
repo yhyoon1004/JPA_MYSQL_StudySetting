@@ -17,11 +17,11 @@ public class Main {
         entityTransaction.begin();
 
         try{
-
             Member m = new Member();
             m.setName("yunhwan");
             entityManager.persist(m);
             entityManager.flush();
+
             //트렌젝션 커밋 -> DB 적용
             entityTransaction.commit();
         }catch (Exception e){
