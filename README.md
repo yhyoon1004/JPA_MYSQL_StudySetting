@@ -1,4 +1,6 @@
-이 레포지토리는 "자바 ORM 표준 JPA 프로그래밍 - 기본편" 강의를 듣던 중 강의의 H2 Database에 접속하고 확인하는 것이 불편해 Mysql Datatbase를 사용해서 공부할 수 있게 만든 소스이다.
+이 레포지토리는 "자바 ORM 표준 JPA 프로그래밍 - 기본편" 강의를 듣던 중 강의의 H2 Database에 접속하고 확인하는 것이 불편해 Mysql Datatbase를 사용해서 공부할 수 있게 만든 소스이다.   
+
+   
 maven 프로젝트이고 스펙은 다음과 같다
 
 language
